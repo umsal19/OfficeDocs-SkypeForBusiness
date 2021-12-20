@@ -121,6 +121,12 @@ To collect logs for Windows:
   - `%userprofile%\Downloads\MSTeams Diagnostics Log\meeting\media-stack\\\*\.blog`
   - `%userprofile%\Downloads\MSTeams Diagnostics Log\meeting\skylib\\\*\.blog` 
 
+To collect logs for MAC:
+- The files will be available in the following locations:
+  - `~/Library/Application Support/Microsoft/Teams/media-stack`
+  - `~/Library/Application Support/Microsoft/Teams/skylib`
+
+
 Here's a list of the log files that are generated and the information they contain.
 
 <br/>
